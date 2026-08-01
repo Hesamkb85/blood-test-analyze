@@ -1,0 +1,16 @@
+{
+  "hemoglobin": {
+    "male": [13.5, 17.5],
+    "female": [12.0, 15.5]
+  },
+  "glucose": {
+    "normal": [70, 99]
+  },
+  "cholesterol": {
+    "normal": [125, 200]
+  },
+  "creatinine": {
+    "male": [0.7, 1.3],
+    "female": [0.6, 1.1]
+  }
+}
